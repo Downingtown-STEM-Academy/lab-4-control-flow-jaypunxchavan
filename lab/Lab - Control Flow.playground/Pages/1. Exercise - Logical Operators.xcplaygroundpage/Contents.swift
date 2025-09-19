@@ -10,46 +10,45 @@
  
  1. `9 == 9`
  */
-    
-
+print("True.")
 /*:
  2. `9 != 9`
  */
-
+print("False.")
 
 /*: 
  3. `47 > 90`
  */
-
+print("False.")
 
 /*:
  4. `47 < 90`
  */
-
+print("True.")
 
 /*:
  5. `4 <= 4`
  */
-
+print("True.")
 
 /*:
  6. `4 >= 5`
  */
-
+print("False.")
 
 /*:
  7. `(47 > 90) && (47 < 90)`
  */
-
+print("False.")
 
 /*:
  8. `(47 > 90) || (47 < 90)`
  */
-
+print("True.")
 
 /*:
  9. `!true`
  */
-
+print("False.")
 
 //: page 1 of 9  |  [Next](@next)
